@@ -1,2 +1,0 @@
-# MovieViewer
-movie browser
